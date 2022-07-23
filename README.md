@@ -32,3 +32,15 @@
 First Header | Second Header | Third Header
 -------------|---------------|--------------
 hi           | 1             | 2
+
+
+
+```c
+
+#include <stdio.h>
+
+int main(){
+    int a;
+}
+
+```
